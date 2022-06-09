@@ -136,6 +136,15 @@ a {
     text-decoration: none;
 }
 
+footer {
+
+    position: absolute;
+    width: 100vw;
+    height: 23px;
+    top: 1000px;
+    background: #1CD1B0;
+}
+
 
 
 
